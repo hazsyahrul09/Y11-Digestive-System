@@ -1,0 +1,6 @@
+{
+  "name": "DigestiQuest: Grade 11 Biology Digestive System",
+  "description": "An interactive, gamified biology learning platform for Grade 11 students exploring human digestive system anatomy, enzyme biochemistry, peristalsis, nutrient absorption, and clinical pathology.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
